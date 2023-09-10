@@ -1,7 +1,7 @@
 # 6310611089.github.io
 <body>
 <div>
-    <img src="img.jpg" alt="my-picture">
+    <img src="img.jpg" alt="my-picture" style="width: 200px; height: 310px">
 </div>
 <div style="background-color: lightgoldenrodyellow">
     <br>
